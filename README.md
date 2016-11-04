@@ -15,6 +15,8 @@
 * Theme - Soda SolarizedDark
 * Theme - Spacegray
 * Zeus 
+* SFTP
+* DocBlockr
 
 > Theme -> Spacegray  
 > Color scheme -> Babel -> Monokai Phoenix
