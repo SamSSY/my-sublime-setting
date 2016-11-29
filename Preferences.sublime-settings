@@ -28,11 +28,13 @@
 		".hg",
 		"CVS"
 	],
+	"font_size": 18,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 		"AngularJS",
 		"Vintage"
 	],
-	"theme": "Spacegray.sublime-theme"
+	"theme": "Spacegray.sublime-theme",
+	"spacegray_fileicons": true
 }
